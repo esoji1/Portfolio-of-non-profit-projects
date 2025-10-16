@@ -35,3 +35,15 @@
   <img src="SlideCup/ScreenShot20251016_180241.png" width="150" />
   <img src="SlideCup/ScreenShot20251016_180244.png" width="150" /> 
 </div>
+
+**3. ROOM RESET.**  
+Классическая игра на запоминание с современным подходом. Игроку на несколько секунд показывается расположение предметов на поле, после чего ему необходимо воспроизвести эту же расстановку за ограниченное время. С каждым уровнем количество предметов увеличивается, а время на запоминание сокращается, что делает игру идеальным тренажером для памяти и внимания.
+
+<div align="center">
+  <img src="RoomReset/RoomReset-MenuScene-Windows_-Mac_-Linux-Unity-6.2DX11_-2025-10-16-18-44-01-_online-video-cutter.gif" width="150" />
+  <img src="RoomReset/ScreenShot20251016_185826.png" width="150" />
+  <img src="RoomReset/ScreenShot20251016_185827.png" width="150" />
+  <img src="RoomReset/ScreenShot20251016_185829.png" width="150" /> 
+  <img src="RoomReset/ScreenShot20251016_185832.png" width="150" />
+  <img src="RoomReset/ScreenShot20251016_185835.png" width="150" />
+</div>
